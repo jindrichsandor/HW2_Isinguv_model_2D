@@ -1,0 +1,3 @@
+N_thermalization = 50 ; pocet sweepu pouzity k termalizaci systemu
+N = 60000 ; pocet konfiguraci pouzitych k prumerovani
+t = 10937.990717887878 s ; celkovy cas behu simulace
